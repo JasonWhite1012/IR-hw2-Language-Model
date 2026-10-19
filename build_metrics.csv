@@ -1,0 +1,4 @@
+built_at,sample_percent,sample_articles,corpus_articles,N,V,distinct_bigrams,build_seconds,database
+2026-10-16T13:30:57,1,13230,1323055,11434488,681975,4370343,153.2,wiki_bigram_model_1pct.sqlite3
+2026-10-16T13:43:33,10,132305,1323055,44333127,1775562,12507653,755.9,wiki_bigram_model_10pct.sqlite3
+2026-10-16T15:48:18,100,1323055,1323055,333074974,7625709,60836882,7485.7,wiki_bigram_model.sqlite3

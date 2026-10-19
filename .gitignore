@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+wiki_article_list_2023_tra.json
+wiki_bigram_model.sqlite3
+wiki_bigram_model.sqlite3.building
+wiki_bigram_model_*pct.sqlite3
+wiki_bigram_model_*pct.sqlite3.building
